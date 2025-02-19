@@ -1,5 +1,7 @@
 setwd("test/test/hallihallo")
 a = 4
-b = 15
+b = 16
 c = a + b
-c = 9
+c = 20
+
+b = a^2
